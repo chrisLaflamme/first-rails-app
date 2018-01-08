@@ -1,9 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+TODO: Document what is necessary to do to get the application up and running.
+Also, don't forget to list prerequisites.
 
-Things you may want to cover:
+Things I should consider adding:
 
 * Ruby version
 
